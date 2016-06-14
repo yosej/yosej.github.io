@@ -1,0 +1,53 @@
+{
+  "type": "network",
+  "version": "1.0",
+  "data": "data.json",
+  "logo": {
+    "text": "",
+    "file": "",
+    "link": ""
+  },
+  "text": {
+    "title": "Ossian",
+    "more": "Interactive network of the epic Ossian poems.\nThe network shows interaction between characters.\nMale characters are represented by blue nodes and females in green.\nRed nodes have unspecified gender. ",
+    "intro": "This network show character interactions in the epic poems of Ossian.\nThe network is based on James Macpherson\u0027s text.\nBlue nodes represents male characters and females are in green.\nRed nodes have unspecified gender."
+  },
+  "legend": {
+    "edgeLabel": "Interaction",
+    "colorLabel": "Gender",
+    "nodeLabel": "Character"
+  },
+  "features": {
+    "search": true,
+    "groupSelectorAttribute": "Gender",
+    "hoverBehavior": "dim"
+  },
+  "informationPanel": {
+    "imageAttribute": "Degree",
+    "groupByEdgeDirection": false
+  },
+  "sigma": {
+    "graphProperties": {
+      "minEdgeSize": 0.2,
+      "maxNodeSize": 7,
+      "maxEdgeSize": 0.5,
+      "minNodeSize": 1
+    },
+    "drawingProperties": {
+      "labelThreshold": 10,
+      "hoverFontStyle": "bold",
+      "defaultEdgeType": "curve",
+      "defaultLabelColor": "#000",
+      "defaultLabelHoverColor": "#fff",
+      "defaultLabelSize": 14,
+      "activeFontStyle": "bold",
+      "fontStyle": "bold",
+      "defaultHoverLabelBGColor": "#002147",
+      "defaultLabelBGColor": "#ddd"
+    },
+    "mouseProperties": {
+      "minRatio": 0.75,
+      "maxRatio": 20
+    }
+  }
+}
