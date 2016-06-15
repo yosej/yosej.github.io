@@ -10,7 +10,7 @@
   "text": {
     "title": "Ossian",
     "more": "Interactive network of the epic Ossian poems.",
-    "intro": "This network shows interactions between characters in the epic poems of Ossian.\nThe network is based on James Macpherson\u0027s text.\nBlue nodes represents male characters and females are in green.\nNodes with unspecified sexual orientation are in red."
+    "intro": "The character network for the epic poems of Ossian. \nMale characters are represented by blue nodes and females are in red. \nNodes with unspecified gender are in white.\nThe edges (links) represent interactions or relationships between pairs of characters."
   },
   "legend": {
     "edgeLabel": "Interaction",
