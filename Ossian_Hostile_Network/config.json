@@ -8,7 +8,7 @@
     "link": ""
   },
   "text": {
-    "title": "Ossian's interactive hostile network. \nGrouped by communities",
+    "title": "Ossian's interactive hostile network. \nNodes colored by communities",
     "more": "The character network for the epic poems of Ossian. \nA different colour has been set for each community identifier.\nLouvain method was used for the community detection algorithm.\nFive main communities were detected.\nSmaller communities of n \u003c 5% have been grouped together and are represented by \nnodes in magenta.\nThe edges (links) represent interactions or relationships between pairs of \ncharacters.\n",
     "intro": "The character network for the epic poems of Ossian. \nA different colour has been set for each community identifier.\nLouvain method was used for the community detection algorithm.\nFive main communities were detected.\nSmaller communities of n \u003c 5% have been grouped together and are represented by \nnodes in magenta.\nThe edges (links) represent interactions or relationships between pairs of \ncharacters."
   },
