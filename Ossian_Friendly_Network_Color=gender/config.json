@@ -9,7 +9,7 @@
   },
   "text": {
     "title": "Ossian's interactive positive (friendly) network. \nNodes colored by gender",
-    "more": "The character network for the epic poems of Ossian.\nMale characters are represented by blue nodes and females are in red.\nNodes with unspecified gender are in grey.\nThe edges (links) represent interactions or relationships between pairs of \ncharacters.\n",
+    "more": "Click the back arrow at the bottom left of this window to go back to the positive network showing communities detected\n",
     "intro": "The character network for the epic poems of Ossian.\nMale characters are represented by blue nodes and females are in red.\nNodes with unspecified gender are in grey.\nThe edges (links) represent interactions or relationships between pairs of \ncharacters."
   },
   "legend": {
