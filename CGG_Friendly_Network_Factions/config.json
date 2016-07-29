@@ -1,0 +1,53 @@
+{
+  "type": "network",
+  "version": "1.0",
+  "data": "data.json",
+  "logo": {
+    "text": "",
+    "file": "",
+    "link": ""
+  },
+  "text": {
+    "title": "Interactive_CGG_Friendly",
+    "more": "The character network for the CGG.\nThe most prominent factions are Irish (green) and Vikings (blue).\nNodes that are unattached to any of the two factions are in grey. \nEdges between Irish are in green, edges between Vikings in blue.\nIntermingling edges between Irish and Vikings are represented in red and any edges involving unspecified nodes are shown in grey.",
+    "intro": "The character network for the CGG.\nThe most prominent factions are Irish (green) and Vikings (blue).\nNodes that are unattached to any of the two factions are in grey. \nEdges between Irish are in green, edges between Vikings in blue.\nIntermingling edges between Irish and Vikings are represented in red and any edges involving unspecified nodes are shown in grey."
+  },
+  "legend": {
+    "edgeLabel": "Interaction",
+    "colorLabel": "Faction",
+    "nodeLabel": "Character"
+  },
+  "features": {
+    "search": true,
+    "groupSelectorAttribute": "Faction",
+    "hoverBehavior": "dim"
+  },
+  "informationPanel": {
+    "imageAttribute": "Node_colour",
+    "groupByEdgeDirection": false
+  },
+  "sigma": {
+    "graphProperties": {
+      "minEdgeSize": 0.2,
+      "maxNodeSize": 7,
+      "maxEdgeSize": 0.5,
+      "minNodeSize": 1
+    },
+    "drawingProperties": {
+      "labelThreshold": 10,
+      "hoverFontStyle": "bold",
+      "defaultEdgeType": "curve",
+      "defaultLabelColor": "#000",
+      "defaultLabelHoverColor": "#fff",
+      "defaultLabelSize": 14,
+      "activeFontStyle": "bold",
+      "fontStyle": "bold",
+      "defaultHoverLabelBGColor": "#002147",
+      "defaultLabelBGColor": "#ddd"
+    },
+    "mouseProperties": {
+      "minRatio": 0.75,
+      "maxRatio": 20
+    }
+  }
+}
